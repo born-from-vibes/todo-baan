@@ -1,0 +1,10 @@
+colors:
+  color1: '#6366f1'
+  color2: '#10b981'
+  color3: '#f59e0b'
+theme:
+  background: '#0f0f13'
+  surface: '#1a1a24'
+  border: '#2a2a38'
+  text: '#e2e2f0'
+  textMuted: '#6b6b82'
