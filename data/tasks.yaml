@@ -1,0 +1,33 @@
+tasks:
+  - id: d5444aa0-aae0-4b6e-a01a-19b539691e2c
+    title: Demn its good
+    description: Fa fun
+    state: Open
+    category: check
+    category_color: '#c061cb'
+    created_at: '2026-03-15T19:23:50.982Z'
+    subtask_columns:
+      - Open
+      - In Progress
+      - Done
+    subtasks: []
+  - id: demo-task-2
+    title: Fitness routine
+    description: Build a sustainable 5-day workout schedule.
+    state: Open
+    category: Health
+    category_color: 2
+    created_at: '2026-03-15T10:00:00.000Z'
+    subtask_columns:
+      - Open
+      - Doing
+      - Done
+    subtasks:
+      - id: demo-sub-4
+        title: Research split programs
+        state: Doing
+        note: ''
+      - id: demo-sub-5
+        title: Book gym sessions
+        state: Open
+        note: ''
